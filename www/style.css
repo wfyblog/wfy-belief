@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
 }
-@font-face {
+/* @font-face {
   font-family: TZK;
   font-weight: 700;
   src: url(https://cdn.jsdelivr.net/gh/sviptzk/xiaokang.me/www/TZK.ttf);
-}
+} */
 a,
 button {
   outline: none;
@@ -49,7 +49,7 @@ img {
 }
 
 body {
-  font-family: Fira Mono, "Noto Serif SC", -apple-system, Roboto, Helvetica Neue,
+  font-family: Comic Sans MS, Helvetica Neue, Microsoft Yahei, -apple-system,
     sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -119,7 +119,8 @@ body {
 
 #header .subtitle,
 #header .title {
-  font-family: TZK;
+  font-family: Comic Sans MS, Helvetica Neue, Microsoft Yahei, -apple-system,
+    sans-serif;
   letter-spacing: 4px;
 }
 
