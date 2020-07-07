@@ -511,10 +511,9 @@ body {
 }
 /* 页脚 */
 #footer {
-  /* position: absolute;
-  bottom: 0;
-  margin: auto 0; */
   width: 100%;
+  bottom: -40px;
+  position: absolute;
 }
 #footer .site-info {
   text-align: center;
